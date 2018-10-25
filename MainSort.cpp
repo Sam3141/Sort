@@ -8,7 +8,7 @@ using namespace std;
 //inline  void Swap(int &a, int &b);
 //void bubble_sort(int arr[], int arr_size);
 //void insertion_sort(int arr[], int arr_size);
-//void selection_sort(int arr[], int arr_size);//
+//void selection_sort(int arr[], int arr_size);
 void print(int arr[], int arr_size);
 
 const int ArrSize = 1000;
